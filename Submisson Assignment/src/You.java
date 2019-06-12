@@ -25,6 +25,6 @@ public class You{
 	private String favoriteAnimal;
 	private int age;
 
-	// Write your code here
+	// hello
 	
 }
